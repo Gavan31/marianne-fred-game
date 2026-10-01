@@ -1,4 +1,4 @@
-# Marianne et Fred Game
+# Marianne & Fred Game
 
 > **Déploiement** : https://gavan31.github.io/marianne-fred-game/
 
